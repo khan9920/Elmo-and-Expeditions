@@ -1,0 +1,169 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+.section {
+    padding: 50px 0;
+}
+
+.container-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),  url('img/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.wrap-hero-header {
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.hero-title {
+    font-size: 55px;
+}
+
+.hero-para {
+    font-size: 24px;
+}
+
+.wrap-content {
+    text-align: center;
+}
+
+.video-wrap {
+    text-align: center;
+}
+
+.section-three {
+    background-color: #f5f5f5;
+}
+
+.wrap-expedition img {
+    width: 100%;
+}
+
+.wrap-expedition {
+    text-align: center;
+}
+
+.exp-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.exp-link:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.expedition-text {
+    margin-top: 20px;
+}
+
+.row-expedition {
+    margin: 50px 0;
+}
+
+.row-sponsors {
+    text-align: center;
+}
+
+.row-sponsors img {
+    width: 80%;
+}
+
+iframe {
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(27, 27, 27);
+    padding: 25px 0;
+    color: #fff;
+    text-align: right;
+    font-size: 14px;
+}
+
+.home-link {
+    text-decoration: none;
+    color: #000;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.home-link:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.header-row {
+    padding: 30px 0;
+}
+
+.title {
+    text-align: center;
+}
+
+.expedition-img {
+    margin: 50px 0;
+}
+
+.expedition-img img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+.row-client-img {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.row-client-img img {
+    width: 100%;
+}
+
+.row-next-expedi h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.exped-logo {
+    width: 100%;
+}
+
+.next-expedition-img {
+    width: 100%;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.row-next-expedi a {
+    color: #000;
+    margin-right: 25px;
+}
+
+.row-next-expedi a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.row-next-expedi ion-icon {
+    font-size: 40px;
+}
+
+.section-next-expedi {
+    text-align: center;
+}
+
+.section-four {
+    background-color: #f5f5f5;
+}
